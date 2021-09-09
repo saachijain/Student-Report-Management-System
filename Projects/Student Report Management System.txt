@@ -1,0 +1,15 @@
+Welcome to the Student Report Management System!
+This is a C++ program that mimics a student report database management system. It provides for the following functionalities:
+
+1) For a student
+-> Add an account
+-> Login to your account
+-> Print your grade report 
+
+2) For a teacher
+-> Add an account
+-> Login to your account
+-> Update a particular student's scores
+-> Generate student's grades
+-> Print student's grade report
+
